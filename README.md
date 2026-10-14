@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is part of a bioinformatics study focusing on transcriptomic data from patients affected by **Amyotrophic Lateral Sclerosis (ALS)**.  
-The goal is to implement a **complete analysis pipeline** — from data preprocessing to identifying the most relevant genes.
+The goal is to implement a **complete analysis pipeline** , from data preprocessing to identifying the most relevant genes.
 
 ---
 
